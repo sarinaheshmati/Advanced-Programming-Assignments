@@ -2,7 +2,7 @@
 
 ## Overview
 
-This GitHub repository contains all the assignments from my Advanced Programming course. Each project focuses on a different aspect of C++ programming, demonstrating various concepts such as object-oriented design, operator overloading, and data manipulation. Below is a brief overview of each project.
+This GitHub repository contains some of the assignments and projects from my Advanced Programming course. Each project focuses on a different aspect of C++ programming, demonstrating various concepts such as object-oriented design, operator overloading, and data manipulation. Below is a brief overview of each project.
 
 ## Projects
 
