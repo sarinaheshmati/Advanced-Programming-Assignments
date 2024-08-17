@@ -14,7 +14,7 @@ A complete system for managing a store with products, customers, receipts, and s
   - Process purchases and generate receipts.
   - Perform sales analysis and report generation.
 
-[More Details](#)
+[More Details](#Store)
 
 ### 2. **Bignum**
 A class for handling large integers that exceed standard data type limits. This project includes overloaded operators for arithmetic operations and comparison.
