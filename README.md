@@ -24,7 +24,7 @@ A class for handling large integers that exceed standard data type limits. This 
   - Handles large numbers with custom implementations of arithmetic operations.
   - Provides I/O stream support for `Bignum` objects.
 
-[More Details](#)
+[More Details](./BigNum/README.md)
 
 ### 3. **Bank**
 A simple banking system that manages customer accounts. The project includes operations such as account creation, deposit, withdrawal, and account deactivation.
@@ -34,7 +34,7 @@ A simple banking system that manages customer accounts. The project includes ope
   - Perform transactions and track total funds.
   - Account activation and deactivation.
 
-[More Details](#)
+[More Details](./Bank/README.md)
 
 ### 4. **2D Vector**
 A class for representing and manipulating 2D vectors. This project demonstrates operator overloading for basic vector operations.
@@ -44,7 +44,7 @@ A class for representing and manipulating 2D vectors. This project demonstrates 
   - Allows easy manipulation of vector components.
   - Demonstrates efficient use of operator overloading.
 
-[More Details](#)
+[More Details](./2DVector/README.md)
 
 ## How to Use
 
