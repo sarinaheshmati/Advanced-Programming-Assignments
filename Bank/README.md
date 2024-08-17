@@ -46,6 +46,3 @@ Represents a customer's bank account.
 
 The system allows for creating and managing bank accounts, depositing and withdrawing funds, and tracking the bank's total funds and active accounts.
 
----
-
-This `README.md` provides a streamlined overview of the Bank Management System's key features and usage.
