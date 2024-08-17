@@ -66,7 +66,3 @@ Each project is contained within its own directory, with a `README.md` file prov
    ```bash
    ./ProjectName
    ```
-
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
