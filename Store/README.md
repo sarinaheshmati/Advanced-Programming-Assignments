@@ -53,14 +53,6 @@ store.check_out(customerId);
 store.sales_report(startDate, endDate);
 ```
 
-## License
-
-Licensed under the MIT License. See `LICENSE` for details.
-
 ## Contributing
 
 Contributions are welcome! Submit a pull request or open an issue for any enhancements or bug fixes.
-
----
-
-This `README.md` provides a concise overview of the project and its key components.
