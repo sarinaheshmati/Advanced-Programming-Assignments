@@ -1,4 +1,4 @@
-# Bignum Class
+# Bignum Calculator
 
 ## Overview
 
